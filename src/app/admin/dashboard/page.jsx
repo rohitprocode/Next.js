@@ -1,3 +1,4 @@
+import LearnDataFetching from "@/components/LearnDataFetching";
 import LearnGlobalCss from "@/components/LearnGlobalCss";
 import LearnImageUse from "@/components/LearnImageUse";
 import LearnModuleCss from "@/components/LearnModuleCSS";
@@ -9,8 +10,9 @@ const Dashboard = () => {
       <h1>Ye hai Admin Dashboard</h1>
       <LearnUseRouter />
       <LearnGlobalCss />
-      <LearnModuleCss/>
+      <LearnModuleCss />
       <LearnImageUse />
+      <LearnDataFetching />
     </div>
   );
 };

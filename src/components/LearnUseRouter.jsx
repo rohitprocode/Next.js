@@ -3,7 +3,7 @@ import { useRouter } from "next/navigation";
 
 const LearnUseRouter = () => {
   const router = useRouter();
-  console.log("Router info:", router);
+  // console.log("Router info:", router);
   const userName = "rohit_alex";
   const userEmail = "rohit@nextjs.com";
   return (
