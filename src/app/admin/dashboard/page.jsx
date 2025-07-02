@@ -1,4 +1,5 @@
 import LearnGlobalCss from "@/components/LearnGlobalCss";
+import LearnImageUse from "@/components/LearnImageUse";
 import LearnModuleCss from "@/components/LearnModuleCSS";
 import LearnUseRouter from "@/components/LearnUseRouter";
 
@@ -9,6 +10,7 @@ const Dashboard = () => {
       <LearnUseRouter />
       <LearnGlobalCss />
       <LearnModuleCss/>
+      <LearnImageUse />
     </div>
   );
 };

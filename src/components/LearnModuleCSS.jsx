@@ -6,7 +6,7 @@ const LearnModuleCss = () => {
         Ye hai Module page
       </h1>
     </div>
-  );
+  );  
 };
 
 export default LearnModuleCss;
