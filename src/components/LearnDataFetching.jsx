@@ -21,6 +21,7 @@ const LearnDataFetching = async () => {
             <span>Body: {post.body}</span>
             <hr />
           </div>
+          
         );
       })}
     </div>
